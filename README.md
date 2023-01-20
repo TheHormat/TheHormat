@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Hungry Bunny**
 
-- 🌱 I’m currently learning **FastAPI & React**
+- 🌱 I’m currently learning **FastAPI & React & Kubernates**
 
 - 👯 I’m looking to **remote job**
 
