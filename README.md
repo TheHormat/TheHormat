@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hormat Hamidov</h1>
-<h3 align="center">I am Backend Developer</h3>
 <img src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">I am Backend Developer</h3>
+
 
 - 🔭 I’m currently working on **Hungry Bunny**
 
