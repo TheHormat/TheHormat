@@ -3,7 +3,7 @@
 <img align='right' width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **<a href = "https://dualvet.az/default.aspx"> 4D Dual Tvet Azerbaijan </a>**
+- 🔭 I’m currently working on **<a href = "https://dualvet.az/default.aspx" target = "_blank"> 4D Dual Tvet Azerbaijan </a>**
 
 - 🌱 I’m currently learning **FastAPI & React**
 
