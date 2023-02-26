@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hormat Hamidov</h1>
-<h3 align="center">I am Backend Developer</h3>
+<h3 align="center">I am Full Stack Developer</h3>
 <img align='right' width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
