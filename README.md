@@ -3,7 +3,7 @@
 <img align='right' width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **<a href = "https://scholar.coders.edu.az/" target = "blank"> CODERS Technest</a>**
+- 🔭 I’m currently working on **<a href = "https://coders.edu.az/" target = "blank"> Coders Azerbaijan</a>**
 
 - 🌱 I’m currently learning **FastAPI & React**
 
