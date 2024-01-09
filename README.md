@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<a href = "https://caravan.coders.edu.az/" target = "blank"> Coders Caravan</a>**
 
-- 🌱 I’m currently learning **FastAPI & Angular**
+- 🌱 I’m currently learning **FastAPI & React**
 
 - 👯 I’m looking to **remote job**
 
