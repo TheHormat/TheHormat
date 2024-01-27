@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to **remote job**
 
-- 💬 Ask me about **Experienced Developer with a demonstrated history of working in the information technology and services industry. Designing, developing, testing, releasing and supporting restful services using Django. Strong engineering professional with a Bachelor's degree focused in Information Technology from Baku Engineering University. Mainly, Strong Backend (Python) development experience.**
+- 💬 Ask me about **As a seasoned Full Stack Python developer, I excel in integrating Django's robust backend frameworks with React's dynamic front-end capabilities. My expertise lies in creating scalable and responsive web applications that combine Django's powerful features with React's user-centric design. I am passionate about using Python to build efficient, modern web solutions. Dedicated to continuous learning and agile methodologies, I bring a blend of technical proficiency and creative problem-solving to every project.**
 
 - 📫 How to reach me **hamidovhormat@coders.edu.az**
 
