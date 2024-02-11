@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hamidovhormat@coders.edu.az**
 
-- ⚡ Fun fact **I love to play pc games | fitness | book | chess.**
+- ⚡ My Hobbies **Pc games | fitness | book | chess.**
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
