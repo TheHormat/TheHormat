@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Hormat Hamidov</h1>
+<h1 align="center">Hi guys, I'm Hormat Hamidov</h1>
 <h3 align="center">I am Full Stack Python Developer</h3>
 <img align='right' width = "400" src = "https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **<a href = "https://caravan.coders.edu.az/" target = "blank"> Coders Caravan</a>**
+- 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/" target = "blank"> Coders Caravan</a>**
 
-- 🌱 I’m currently learning **FastAPI & React**
+- 💡 I’m currently learning **FastAPI & Linux & AWS**
 
-- 👯 I’m looking to **remote job**
+- 🤝 I’m looking to **remote job**
 
 - 💬 Ask me about **As a seasoned Full Stack Python developer, I excel in integrating Django's robust backend frameworks with React's dynamic front-end capabilities. My expertise lies in creating scalable and responsive web applications that combine Django's powerful features with React's user-centric design. I am passionate about using Python to build efficient, modern web solutions. Dedicated to continuous learning and agile methodologies, I bring a blend of technical proficiency and creative problem-solving to every project.**
 
