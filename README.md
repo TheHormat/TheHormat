@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys, I'm Hormat Hamidov</h1>
 <h3 align="center">I am Full Stack Python Developer | Instructor</h3>
-<img align='right' width = "400" src = "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F1d11s820dgm91.gif">
+<img align='right' width = "400" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--8mUhEkXE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km2w1ppw3yw9pd9na7mu.gif">
 
 
 - 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/" target = "blank"> Coders Caravan</a>**
