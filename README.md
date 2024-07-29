@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hamidovhormat@coders.edu.az**
 
-- ⚡ My Hobbies **book | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
+- ⚡ My Hobbies ** <a href="https://medium.com/@hormat">Reading</a> | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
