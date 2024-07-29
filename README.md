@@ -3,7 +3,7 @@
 <img align='right' width = "400" src = "https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif">
 
 
-- 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/" target = "_blank"> Coders Caravan</a>**
+- 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/"> Coders Caravan</a>**
 
 - 💡 I’m currently learning **FastAPI & Linux & AWS**
 
