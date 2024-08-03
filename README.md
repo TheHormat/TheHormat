@@ -1,5 +1,5 @@
 <h1 align="center">Hi guys, I'm Hormat Hamidov</h1>
-<h3 align="center">I am Full Stack <span style="color: yellow;">Developer</span> | Instructor | PCEP</h3>
+<h3 align="center">I am Full Stack Developer | Instructor | PCEP</h3>
 <img align='right' width = "400" src = "https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif">
 
 
