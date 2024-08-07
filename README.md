@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **As a seasoned Full Stack Python developer, I excel in integrating Django's robust backend frameworks with React's dynamic front-end capabilities. My expertise lies in creating scalable and responsive web applications that combine Django's powerful features with React's user-centric design. I am passionate about using Python to build efficient, modern web solutions. Dedicated to continuous learning and agile methodologies, I bring a blend of technical proficiency and creative problem-solving to every project.**
 
-- 📫 How to reach me **hamidovhormat@coders.edu.az**
+- 📫 How to contact me **hamidovhormat@coders.edu.az**
 
 - ⚡ My Hobbies **<a href="https://medium.com/@hormat">Reading</a> | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
 
