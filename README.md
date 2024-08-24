@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys, I'm Hormat Hamidov</h1>
 <h3 align="center">I am Full Stack Developer | Instructor | <a href="https://www.credly.com/badges/fbd8acce-0b4a-469b-ba9c-ec58303f79f5/linked_in_profile">PCEP</a></h3>
-<img align='right' width = "500" height="300" src = "https://media.tenor.com/jutVgjL4NGAAAAAM/checkmate-chess.gif">
+<img align='right' width = "500" height="300" src = "https://media.tenor.com/mWvT43sLRsgAAAAM/magnus-carlsen.gif">
 
 
 - 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/"> Coders Caravan</a>**
