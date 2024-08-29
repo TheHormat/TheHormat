@@ -1,6 +1,7 @@
 <h1 align="center">Hi guys, I'm Hormat Hamidov</h1>
 <h3 align="center">I am Full Stack Developer | Instructor | <a href="https://www.credly.com/badges/fbd8acce-0b4a-469b-ba9c-ec58303f79f5/linked_in_profile">PCEP</a></h3>
-<img align='right' width = "400" src = "https://media.tenor.com/mWvT43sLRsgAAAAM/magnus-carlsen.gif">
+<iframe src="https://giphy.com/embed/2vB2oTE8eYuV2Ze4ZU" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ken-chess-ajedrez-2vB2oTE8eYuV2Ze4ZU">via GIPHY</a></p>
+<!-- <img align='right' width = "400" src = "https://media.tenor.com/mWvT43sLRsgAAAAM/magnus-carlsen.gif"> -->
 
 
 - 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/"> Coders Caravan</a>**
