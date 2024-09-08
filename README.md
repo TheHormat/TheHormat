@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to **remote job**
 
-- 💬 Ask me about **As a seasoned Full Stack Python developer, I excel in integrating Django's robust backend frameworks with React's dynamic front-end capabilities. My expertise lies in creating scalable and responsive web applications that combine Django's powerful features with React's user-centric design. I am passionate about using Python to build efficient, modern web solutions. Dedicated to continuous learning and agile methodologies, I bring a blend of technical proficiency and creative problem-solving to every project.**
+- 💬 Ask me about **As a Full Stack Python developer, I specialize in integrating the robust backend of Django with the dynamic frontend of React to build scalable and responsive web applications. With a strong focus on modern web solutions and continuous learning, I deliver efficient, user-centered projects using agile methodologies. Teaching and supporting the community are my favorites**
 
 - 📫 How to contact me **hamidovhormat@coders.edu.az**
 
