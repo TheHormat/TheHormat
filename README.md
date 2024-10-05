@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking to **remote job**
 
-- 💬 Ask me about **Creative and forward-thinking professional creates cutting-edge websites and applications for high-profile clients with challenging demands and visions. Skilled project manager, team leader and analytical problem-solver with top-notch organizational, scheduling and code verification skills.Teaching, supporting beginners and the community is my favorite.**
-
 - 📫 How to contact me **hamidovhormat@coders.edu.az**
 
 - ⚡ My Hobbies **<a href="https://medium.com/@hormat">Reading</a> | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
