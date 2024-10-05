@@ -15,7 +15,7 @@
 
 - ⚡ My Hobbies **<a href="https://medium.com/@hormat">Reading</a> | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
 
-<h3 align="left">Portfolio: <a href="https://linkedin.com/in/thehormat"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hormat-hamidov-8b02a321a" height="30" width="30"/></a></h3>
+<h3 align="left">Portfolio:  <a href="https://linkedin.com/in/thehormat"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hormat-hamidov-8b02a321a" height="30" width="30"/></a></h3>
 
 <h3 align="left">I code with:</h3>
 <p align="left"> 
