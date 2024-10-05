@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/"> Coders Caravan</a>**
 
-- 💡 I’m currently learning **FastAPI & Linux & AWS**
+- 💡 Currently learning **Linux & AWS**, etc...
 
 - 🤝 I’m looking to **remote job**
 
