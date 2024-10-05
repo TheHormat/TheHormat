@@ -17,7 +17,7 @@
 
 <h3 align="left">How to reach me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/thehormat"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hormat-hamidov-8b02a321a" height="30" width="30"/></a>  <a href="https://www.instagram.com/thehormat/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg" alt="" height="30" width="30" align="rigth" /></a>
+  <a href="https://linkedin.com/in/thehormat"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hormat-hamidov-8b02a321a" height="30" width="30"/></a>  <a href="https://www.instagram.com/thehormat/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">I code with:</h3>
