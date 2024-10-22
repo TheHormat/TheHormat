@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to **remote job**
 
-- 📫 How to contact me **hamidovhormat@coders.edu.az**
+- 📫 How to contact me **thehormat@gmail.com**
 
 - ⚡ My Hobbies **<a href="https://medium.com/@TheHormat">Reading</a> | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
 
