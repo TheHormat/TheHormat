@@ -11,7 +11,7 @@
 
 - 📫 How to contact me **thehormat@gmail.com**
 
-- ⚡ My Hobbies **<a href="https://medium.com/@TheHormat">Reading</a> | <a href="https://www.chess.com/member/strongjunior404">Chess</a>**
+- ⚡ My Hobbies **<a href="https://medium.com/@TheHormat">Reading</a> | <a href="https://lichess.org/@/StrongJunior">Chess</a>**
 
 <h3 align="left">Portfolio:  <a href="https://linkedin.com/in/thehormat"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hormat-hamidov-8b02a321a" height="30" width="30"/></a></h3>
 
