@@ -5,7 +5,7 @@
 
 - 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/"> Coders Caravan</a>**
 
-- 💡 Currently learning **Svelte.js & AWS**, etc...
+- 💡 Currently learning **React.js & AWS**, etc...
 
 - 🤝 I’m looking to **remote job**
 
