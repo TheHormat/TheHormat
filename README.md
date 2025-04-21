@@ -1,11 +1,11 @@
 <h1 align="center">I'm Hormat Hamidov</h1>
-<h3 align="center">Full Stack Python Developer</h3>
+<h3 align="center">Software Engineer | PCEP</h3>
 <img align='right' width = "300" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFsZWFrYmx6Y3k5ZzV5bHo4aW44NDNiazliOWltejR6czlhZnpjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2vB2oTE8eYuV2Ze4ZU/giphy.gif">
 
 
 - 🚀 I’m currently working on **<a href = "https://caravan.coders.edu.az/"> Coders Caravan</a>**
 
-- 💡 Currently learning **React.js & AWS**, etc...
+- 💡 Currently learning **Java & AWS**, etc...
 
 - 🤝 I’m looking to **remote job**
 
